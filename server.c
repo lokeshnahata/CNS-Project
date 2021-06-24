@@ -22,7 +22,7 @@
 int main()
 {
  printf("\nAdvanced Encryption Standard")	;
- printf("\n\n------------------------\nName: Tapas Sahu\nRegdno: 1841012055\nBranch: CSE\nSection: E\n------------------------\n\n");
+ printf("\n\n------------------------\nName: Lokesh Kumar Nahata\nRegdno: 1841017158\nBranch: CSit\nSection: A\n------------------------\n\n");
  int sockfd, newSocket, len, n;
  char buffer[200];
  struct sockaddr_in serveraddr, cliaddr;
